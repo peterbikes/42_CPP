@@ -2,11 +2,11 @@
 
 - __CPP00__ - _Namespaces, classes, member functions, stdio streams,initialization lists, static, const, and some other basic stuff_ 
 
-This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!
+`This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!`
 
 - __CPP01__ - _Memory allocation, pointers to members, references, switch statement_
 
-This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP.
+`This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP.`
 
 - __CPP02__ - _Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form_
 
